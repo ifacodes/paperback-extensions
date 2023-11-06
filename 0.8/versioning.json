@@ -1,0 +1,1 @@
+{"buildTime":"2023-11-06T09:54:46.355Z","sources":[{"id":"FlameComics","name":"Flame Comics","author":"ifacodes","desc":"Extension that pulls manga from Flame Comics","contentRating":"EVERYONE","version":"0.0.0","icon":"icon.png","websiteBaseURL":"https://flamecomics.com","intents":21}],"builtWith":{"toolchain":"0.8.0-alpha.47","types":"0.8.0-alpha.47"}}
